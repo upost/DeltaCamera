@@ -12,13 +12,13 @@ Example images
 
 Ants (dark on light):
 
-![Ants][screenshots/ants1]
+![Ants](https://github.com/upost/DeltaCamera/blob/master/screenshots/ants1.jpg)
 
-![More Ants][screenshots/ants2]
+![More Ants](https://github.com/upost/DeltaCamera/blob/master/screenshots/ants2.jpg)
 
 A small fountain (light on dark):
 
-![Fountain][screenshots/fountain]
+![Fountain](https://github.com/upost/DeltaCamera/blob/master/screenshots/fountain.jpg)
 
 
 
