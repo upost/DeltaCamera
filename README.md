@@ -3,9 +3,24 @@ DeltaCamera
 ===========
 
 This app uses the camera to record movement (thus "delta") and visualize it in one picture.
-For example running ants leave dark lines on a light surface, or driving cars make light lines
-on a dark surface. Make sure not to move the camera during recording.
+For example running ants leave dark lines on a light surface, or driving cars or a torch make 
+light lines on a dark surface. Make sure not to move the camera during recording or use a tripod.
 You can share images, adjust sensitivity and switch between light-on-dark and dark-on-light mode. 
+
+Example images
+--------------
+
+Ants (dark on light):
+
+!(screenshots/ants1.jpg)
+
+!(screenshots/ants2.jpg)
+
+A small fountain (light on dark):
+
+!(screenshots/fountain.jpg)
+
+
 
 Based on Android's Camera2 API sample, using RenderScript. Actually this is a how-to-use-renderscript
 demo.
