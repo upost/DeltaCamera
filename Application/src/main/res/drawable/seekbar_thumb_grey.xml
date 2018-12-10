@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape>
+            <size
+                android:height="40dp"
+                android:width="20dp" />
+            <corners android:radius="5dp"/>
+            <solid android:color="@color/control_ruler_grey" />
+        </shape>
+    </item>
+
+</layer-list>
