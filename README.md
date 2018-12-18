@@ -7,6 +7,10 @@ For example running ants leave dark lines on a light surface, or driving cars or
 light lines on a dark surface. Make sure not to move the camera during recording or use a tripod.
 You can share images, adjust sensitivity and switch between light-on-dark and dark-on-light mode. 
 
+[<img src="https://f-droid.org/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/de.uwepost.android.deltacam/)
+
 Example images
 --------------
 
