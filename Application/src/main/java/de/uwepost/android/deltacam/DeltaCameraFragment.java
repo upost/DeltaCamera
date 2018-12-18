@@ -445,8 +445,11 @@ public class DeltaCameraFragment extends Fragment implements View.OnClickListene
         mSensitivitySeekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
             public void onProgressChanged(SeekBar seekBar, int value, boolean b) {
-                Log.d(TAG, "setting threshold to " + value);
-                if(mRenderscriptWrapper!=null) mRenderscriptWrapper.setThreshold((short)value);
+                if(value>0) {
+                    Log.d(TAG, "setting threshold to " + value);
+                    if (mRenderscriptWrapper != null)
+                        mRenderscriptWrapper.setThreshold((short) value);
+                }
             }
 
             @Override
